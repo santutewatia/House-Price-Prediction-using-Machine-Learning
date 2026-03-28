@@ -59,7 +59,7 @@ Root Mean Squared Error (RMSE)
 
 📌 These metrics help measure prediction accuracy and error distribution.
 
-🛠 Tech Stack
+#### 🛠 Tech Stack
 Python
 Pandas
 NumPy
